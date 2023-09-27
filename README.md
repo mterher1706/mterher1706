@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Dante
+- 👀 I’m interested in programing
+- 🌱 I’m currently learning DMA
+- 💞️ I’m looking to collaborate on class
